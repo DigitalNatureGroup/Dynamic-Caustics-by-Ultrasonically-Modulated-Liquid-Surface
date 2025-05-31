@@ -1,4 +1,4 @@
 {
-  "image": "tensorflow/tensorflow:2.5",
+  "image": "tensorflow/tensorflow:2.5.0",
   "features": {}
 }
