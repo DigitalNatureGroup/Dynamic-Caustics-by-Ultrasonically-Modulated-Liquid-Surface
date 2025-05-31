@@ -1,7 +1,7 @@
 {
-  "name": "dynamic-caustics",
+  "name": "dynamic_caustics",
   "dockerComposeFile": "../Docker/docker-compose.yml",
-  "service": "dynamic-caustics",
+  "service": "dynamic_caustics",
   "forwardPorts": [8080],
   "workspaceFolder": "/root/opt",
   "customizations": {
