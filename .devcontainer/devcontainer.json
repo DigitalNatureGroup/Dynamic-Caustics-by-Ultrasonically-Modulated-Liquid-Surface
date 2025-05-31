@@ -1,12 +1,4 @@
 {
-  "name": "dynamic_caustics",
-  "dockerComposeFile": "../Docker/docker-compose.yml",
-  "service": "dynamic_caustics",
-  "forwardPorts": [8080],
-  "workspaceFolder": "/root/opt",
-  "customizations": {
-    "vscode": {
-      "extensions": ["ms-python.python"]
-    }
-  }
+  "image": "tensorflow/tensorflow:latest",
+  "features": {}
 }
