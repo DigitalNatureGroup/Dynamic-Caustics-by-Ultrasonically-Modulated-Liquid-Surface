@@ -1,2 +1,2 @@
-FROM tensorflow/tensorflow:2.5.0
+FROM tensorflow/tensorflow:latest
 USER root
