@@ -1,0 +1,4 @@
+{
+  "image": "tensorflow/tensorflow:2.5",
+  "features": {}
+}
